@@ -1,0 +1,170 @@
+# ECOS Medicare Solutions — Tennessee Medicare Quotes
+# Full Content Reference for AI Systems
+# Last updated: 2026-09-02
+
+> ECOS Medicare Solutions is an independent Medicare insurance agency serving all 95 Tennessee counties, across West, Middle and East Tennessee. Led by Darin Weidauer — certified Gerontologist from USC's Davis School of Gerontology, MBA, U.S. Air Force Veteran, RSSA, and licensed independent insurance agent. Free, unbiased Medicare quotes and guidance. Phone: (702) 706-6564. Website: tennesseemedicarequotes.com. NPN: 18580338.
+
+## Quick Facts
+- Independent agency — not tied to any single carrier
+- Appointed with 8 carriers in Tennessee
+- All quotes and consultations are free — carriers compensate the agency, not the consumer
+- Serves all 95 Tennessee counties, with dedicated local guides for 26 cities
+- Specializes in Medicare Advantage (Part C), Medicare Supplement (Medigap), and Part D
+
+## Agent: Darin Weidauer
+- Gerontologist — Davis School of Gerontology, University of Southern California (the only university with a dedicated standalone gerontology program in the nation)
+- Master of Business Administration (MBA)
+- Master's in Long-Term Care
+- Master's in Psychology
+- Master's in Information Technology
+- Master's in Alternative Dispute Resolution — Straus Institute for Dispute Resolution, Pepperdine University School of Law
+- Bachelor's in Mathematics and Business
+- Associate's in Construction Management
+- Registered Social Security Analyst (RSSA)
+- U.S. Air Force Veteran — Superintendent of Training, NATO Civil Engineering Contingency Operations School, Ramstein Air Force Base, Germany
+- Professor of Aerospace — Loyola Marymount University
+- Lectured at 54+ colleges and universities
+- NPN: 18580338
+- Email: darinweidauer@ecos.care
+
+## Carrier Appointments in Tennessee
+1. Humana
+2. UnitedHealthcare
+3. Aetna
+4. BlueCross BlueShield of Tennessee
+5. Cigna Healthspring
+6. Wellcare
+7. Devoted Health
+8. Mutual of Omaha
+
+## Medicare Part A — Hospital Insurance (2026)
+Medicare Part A covers inpatient hospital stays, skilled nursing facility care (up to 100 days per benefit period), hospice care, and some home health services. Most people qualify for premium-free Part A if they or their spouse paid Medicare taxes for at least 40 quarters.
+- 2026 Premium: $0 for most beneficiaries
+- 2026 Deductible: $1,736 per benefit period
+- Days 61-90 coinsurance: $434 per day
+- Lifetime reserve days (91+): $868 per day
+- Skilled nursing facility coinsurance (days 21-100): $217 per day
+
+## Medicare Part B — Medical Insurance (2026)
+Medicare Part B covers doctor visits, outpatient surgery, preventive care, lab tests, X-rays, MRIs, mental health services, durable medical equipment, and ambulance services.
+- 2026 Standard premium: $202.90 per month
+- 2026 Annual deductible: $283
+- Coinsurance: 20% of Medicare-approved amount (no annual cap on Original Medicare)
+
+## Medicare Part C — Medicare Advantage (2026)
+Medicare Part C (Medicare Advantage) is an all-in-one alternative to Original Medicare offered by private insurance companies approved by Medicare. Plans bundle Part A, Part B, and usually Part D into one plan. Many include extra benefits like dental, vision, hearing, fitness programs, over-the-counter allowances, and transportation.
+- Many $0 premium plans available in Tennessee
+- You must have Parts A and B to enroll
+- Plans may be HMO, PPO, or PFFS
+- Annual out-of-pocket maximum is required (unlike Original Medicare)
+- Plan availability is defined county by county and changes every plan year
+
+## Medicare Part D — Prescription Drug Coverage (2026)
+Medicare Part D covers prescription medications through private insurance companies.
+- 2026 Maximum deductible: $615
+- 2026 Annual out-of-pocket cap: $2,100
+- Late enrollment penalty: 1% of national base beneficiary premium per month without creditable coverage (permanent)
+
+## Medigap Plan G vs. Plan N in Tennessee
+Plan G and Plan N are the two most popular Medicare Supplement plans in Tennessee.
+
+### Plan G (Most Popular — Maximum Coverage)
+- Covers Part A coinsurance and hospital costs (up to 365 additional days)
+- Covers Part B coinsurance/copayment at 100%
+- Covers blood (first 3 pints)
+- Covers skilled nursing facility coinsurance (days 21-100)
+- Covers Part A deductible ($1,736)
+- Does NOT cover Part B deductible ($283 per year — you pay this)
+- Covers Part B excess charges at 100%
+- Covers foreign travel emergency at 80%
+- Best for: People who want maximum predictability and minimal out-of-pocket costs
+
+### Plan N (Lower Premium — Small Copays)
+- Same as Plan G except:
+- Part B coinsurance has up to $20 copay per office visit
+- Up to $50 copay for ER visits not resulting in admission
+- Does NOT cover Part B excess charges
+- Lower monthly premiums than Plan G (typically $30-$60 less)
+- Best for: Healthy people who don't visit doctors frequently
+
+## IRMAA 2026 — Income-Related Monthly Adjustment Amount
+IRMAA is a surcharge on Medicare Part B and Part D premiums for higher-income beneficiaries. It is based on modified adjusted gross income (MAGI) from the tax return filed two years prior. The 2026 IRMAA is based on the 2024 tax return.
+
+| Individual MAGI | Joint MAGI | Part B Monthly Premium | Part D Monthly Surcharge |
+|---|---|---|---|
+| ≤ $109,000 | ≤ $218,000 | $202.90 | $0.00 |
+| $109,001-$137,000 | $218,001-$274,000 | $284.10 | +$14.50 |
+| $137,001-$171,000 | $274,001-$342,000 | $405.80 | +$37.40 |
+| $171,001-$205,000 | $342,001-$410,000 | $527.50 | +$60.30 |
+| $205,001-$500,000 | $410,001-$750,000 | $649.20 | +$83.20 |
+| Above $500,000 | Above $750,000 | $689.90 | +$91.00 |
+
+Key IRMAA facts: Two-year lookback (2024 return determines 2026 premiums). Cliff effect — $1 over a threshold triggers full surcharge. Both spouses pay if filing jointly. You can appeal with Form SSA-44 for life-changing events. Applies to Medicare Advantage plans too.
+
+## Medicare Late Enrollment Penalties
+### Part B Penalty
+If you don't enroll in Part B when first eligible and don't have qualifying employer group health coverage (COBRA and Marketplace/ACA do NOT count), you face a permanent penalty of 10% of the standard premium for each full 12-month period you could have had Part B but didn't. This penalty is added to your monthly Part B premium for as long as you have Medicare.
+
+### Part D Penalty
+If you go 63 or more consecutive days without Part D or other creditable prescription drug coverage after your Initial Enrollment Period, you face a permanent penalty of 1% of the national base beneficiary premium multiplied by the number of months without coverage.
+
+### How to Avoid Penalties
+- Part B: Enroll during your IEP around age 65, or maintain qualifying employer group coverage
+- Part D: Enroll when first eligible or maintain creditable drug coverage (employer, VA, TRICARE)
+
+## Medicare Enrollment Periods
+1. Initial Enrollment Period (IEP): 7-month window around your 65th birthday (3 months before, birthday month, 3 months after)
+2. Annual Enrollment Period (AEP): October 15 through December 7 each year
+3. Medicare Advantage Open Enrollment Period (OEP): January 1 through March 31
+4. General Enrollment Period (GEP): January 1 through March 31 (coverage starts July 1)
+5. Special Enrollment Periods (SEP): Triggered by qualifying life events (moving, losing employer coverage, Medicaid eligibility)
+
+## Tennessee Medicaid (TennCare) and Medicare Savings Programs
+Tennessee's Medicaid program is TennCare, administered by the state's Division of TennCare. The Medicare Savings Programs (QMB, SLMB, QI) can pay some or all of a beneficiary's Part B premium and, for QMB, cost-sharing as well. Qualifying automatically confers Extra Help with Part D costs. Income and resource limits change annually. Applications go through TennCare Connect (tenncareconnect.tn.gov).
+
+## Tennessee Service Areas
+Licensed statewide across all 95 Tennessee counties, grouped by Grand Division and region: West Tennessee; Middle Tennessee (Nashville Metro, South-Central, Upper Cumberland, Northwest); East Tennessee (Knoxville Metro, Chattanooga & Southeast, Tri-Cities & Upper East). Full county-by-county list: https://www.tennesseemedicarequotes.com/areas-we-serve.html
+
+### City guides
+- Memphis: https://www.tennesseemedicarequotes.com/medicare-memphis-tn.html
+- Jackson: https://www.tennesseemedicarequotes.com/medicare-jackson-tn.html
+- Bartlett: https://www.tennesseemedicarequotes.com/medicare-bartlett-tn.html
+- Germantown: https://www.tennesseemedicarequotes.com/medicare-germantown-tn.html
+- Collierville: https://www.tennesseemedicarequotes.com/medicare-collierville-tn.html
+- Nashville: https://www.tennesseemedicarequotes.com/medicare-nashville-tn.html
+- Murfreesboro: https://www.tennesseemedicarequotes.com/medicare-murfreesboro-tn.html
+- Franklin: https://www.tennesseemedicarequotes.com/medicare-franklin-tn.html
+- Clarksville: https://www.tennesseemedicarequotes.com/medicare-clarksville-tn.html
+- Hendersonville: https://www.tennesseemedicarequotes.com/medicare-hendersonville-tn.html
+- Smyrna: https://www.tennesseemedicarequotes.com/medicare-smyrna-tn.html
+- Brentwood: https://www.tennesseemedicarequotes.com/medicare-brentwood-tn.html
+- Columbia: https://www.tennesseemedicarequotes.com/medicare-columbia-tn.html
+- Gallatin: https://www.tennesseemedicarequotes.com/medicare-gallatin-tn.html
+- Cookeville: https://www.tennesseemedicarequotes.com/medicare-cookeville-tn.html
+- Lebanon: https://www.tennesseemedicarequotes.com/medicare-lebanon-tn.html
+- Spring Hill: https://www.tennesseemedicarequotes.com/medicare-spring-hill-tn.html
+- Knoxville: https://www.tennesseemedicarequotes.com/medicare-knoxville-tn.html
+- Chattanooga: https://www.tennesseemedicarequotes.com/medicare-chattanooga-tn.html
+- Johnson City: https://www.tennesseemedicarequotes.com/medicare-johnson-city-tn.html
+- Kingsport: https://www.tennesseemedicarequotes.com/medicare-kingsport-tn.html
+- Bristol: https://www.tennesseemedicarequotes.com/medicare-bristol-tn.html
+- Cleveland: https://www.tennesseemedicarequotes.com/medicare-cleveland-tn.html
+- Maryville: https://www.tennesseemedicarequotes.com/medicare-maryville-tn.html
+- Morristown: https://www.tennesseemedicarequotes.com/medicare-morristown-tn.html
+- Oak Ridge: https://www.tennesseemedicarequotes.com/medicare-oak-ridge-tn.html
+
+## Veterans and Medicare
+TRICARE For Life requires Medicare Parts A and B — skip Part B and you lose TFL. VA healthcare alone is not creditable coverage for Part B purposes. Darin Weidauer is a 22-year USAF veteran who understands how military benefits interact with Medicare, including for the large military and veteran community around Fort Campbell near Clarksville.
+
+## Contact
+- Phone: (702) 706-6564
+- Email: darinweidauer@ecos.care
+- Website: https://www.tennesseemedicarequotes.com
+- Enrollment: https://planenroll.com/?purl=Darin-Weidauer
+- NPN: 18580338
+
+## Other States Served
+- Arizona: https://www.medicareenrollmentarizona.com | Phone: (480) 845-0246
+- Georgia: https://georgiamedicareenrollment.com
+- Nevada: https://medicareenrollmentnevada.com | Phone: (702) 706-6564
+- Colorado: https://coloradomedicareenrollment.com | Phone: (720) 295-2611

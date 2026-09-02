@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ECOS Medicare Solutions">
+  <rect width="64" height="64" rx="12" fill="#0B3D6B"/>
+  <path d="M0 40h64v12a12 12 0 0 1-12 12H12A12 12 0 0 1 0 52z" fill="#0B4DA2" opacity=".55"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Georgia,'Times New Roman',serif"
+        font-size="30" font-weight="700" fill="#C5912B">65</text>
+</svg>

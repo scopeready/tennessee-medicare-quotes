@@ -1,0 +1,31 @@
+# robots.txt for www.tennesseemedicarequotes.com
+
+User-agent: *
+Allow: /
+Sitemap: https://www.tennesseemedicarequotes.com/sitemap.xml
+
+# AI crawlers — explicitly allowed for GEO (Generative Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# LLM content files
+# llms.txt: https://www.tennesseemedicarequotes.com/llms.txt
+# llms-full.txt: https://www.tennesseemedicarequotes.com/llms-full.txt
